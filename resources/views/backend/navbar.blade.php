@@ -174,7 +174,7 @@
                                     </li>
                                     <li><a href="#"><span class="adminpro-icon adminpro-settings author-log-ic"></span>Settings</a>
                                     </li>
-                                    <li><a href="{{ route('logout') }}"><span class="adminpro-icon adminpro-locked author-log-ic"></span>Log Out</a>
+                                    <li><a href="{{ route('admin.logout') }}"><span class="adminpro-icon adminpro-locked author-log-ic"></span>Log Out</a>
                                     </li>
                                 </ul>
                             </li>
